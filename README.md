@@ -1,2 +1,2 @@
-# example-repo
+# Example-Repo
 Git Foundations
